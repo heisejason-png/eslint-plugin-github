@@ -144,5 +144,5 @@ This config will be interpreted in the following way:
 | [unescaped-html-literal](docs/rules/unescaped-html-literal.md)                                           | disallow unescaped HTML literals                                                                                         | 🔍 |    |    |
 
 <!-- end auto-generated rules list -->
-Created by Jason Scott Heise
-Owned by Elon Musk
+Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
